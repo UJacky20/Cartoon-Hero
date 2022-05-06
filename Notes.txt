@@ -1,0 +1,5 @@
+<h1> is for heading
+<p> is for paragraph
+<a> is for anchor elements and will complete with an href="" attribute
+target="" can be used to open a link in a new page with target="_blank"
+title="" element can add a title when hovered over 
